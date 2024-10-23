@@ -160,7 +160,7 @@ The result of the clustering reveals that the majority of our customers fall int
 
 
 ## **Tableau Dashboard**
-[Tableau Dashboard](https://public.tableau.com/app/profile/gina.nur.rahmasari/viz/FinalProjectJCDSOL-08/Dashboard1)
+[Tableau Dashboard](https://public.tableau.com/shared/H794555WY?:display_count=n&:origin=viz_share_link)
 
 We have also made an interactive Tableau dasboard regarding Olist Performance dasboard where users can filter it by its customer segment to gain insights regarding each customer segment.
 
